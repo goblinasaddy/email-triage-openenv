@@ -1,0 +1,8 @@
+{
+  "email_text": "CONGRATULATIONS!!! You have won a $1000 Walmart Gift Card! Click here to claim your prize now!!!",
+  "sender": "spam@sketchy-domain.com",
+  "subject": "You are a WINNER!!!",
+  "correct_category": "spam",
+  "correct_priority": "low",
+  "expected_keywords": ["unsubscribe", "ignore", "delete", "spam"]
+}

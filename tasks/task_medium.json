@@ -1,0 +1,8 @@
+{
+  "email_text": "Hello, I was double charged for my subscription this month. Can you please check my account and refund the extra charge?",
+  "sender": "customer@example.com",
+  "subject": "Double charged for subscription",
+  "correct_category": "important",
+  "correct_priority": "high",
+  "expected_keywords": ["refund", "apologize", "account", "check"]
+}

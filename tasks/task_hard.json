@@ -1,0 +1,8 @@
+{
+  "email_text": "Hi team, unfortunately our external vendors cannot make it to the strategy meeting scheduled for 10 AM tomorrow. We need to reschedule to either Thursday at 2 PM or Friday morning. Please coordinate with them and send a new invite to everyone including the execs.",
+  "sender": "vp@company.com",
+  "subject": "URGENT: Reschedule strategy meeting",
+  "correct_category": "important",
+  "correct_priority": "high",
+  "expected_keywords": ["reschedule", "invite", "thursday", "execs", "vendors", "coordinate"]
+}

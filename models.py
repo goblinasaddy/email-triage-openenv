@@ -11,6 +11,8 @@ class EmailObservation(Observation):
     sender: str
     subject: str
     history: list[str]
+    done: bool = False
+    reward: float | None = None
 
 class EmailState(State):
     correct_category: str
